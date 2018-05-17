@@ -59,3 +59,7 @@ L'acide aminé 133, concerné par le variant, se situe dans le domaine Homeobox.
 ### Q15
 Barbaréa Wolters 2013: https://www.ncbi.nlm.nih.gov/pubmed/24051572
 ### Q16
+Il y a 7 lignes: 6 variations faux-sens, et une partie non transcrite. 
+### Q17
+### Q18
+### Q19
