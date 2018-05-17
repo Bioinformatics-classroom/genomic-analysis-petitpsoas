@@ -57,9 +57,12 @@ Oui cette région est conservée.
 ### Q14
 L'acide aminé 133, concerné par le variant, se situe dans le domaine Homeobox.
 ### Q15
-Barbaréa Wolters 2013: https://www.ncbi.nlm.nih.gov/pubmed/24051572
+Barbara Wolters 2013: https://www.ncbi.nlm.nih.gov/pubmed/24051572
 ### Q16
-Il y a 7 lignes: 6 variations faux-sens, et une partie non transcrite. 
+Il y a 7 lignes car il peut y avoir des transcrits différents, on a pas précisé lequel on cherchait en particulier.
 ### Q17
+DOI de l'article de l'ACMG: 10.1097/GIM.0b013e31816b5cae
 ### Q18
+
+
 ### Q19
