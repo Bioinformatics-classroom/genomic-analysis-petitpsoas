@@ -24,8 +24,8 @@ Le variant 3 n'a pas été retrouvé dans la première base de données utilisé
 ### Q1
 On trouve dans Mutalyser que la variation appartient au gène SHOX.
 ### Q2
-Le gène SHOX (short stature homeobox) est responsable d'un phénotype de petite taille (short stature) idiopathique familial. Le mode de transmission de cette maladie n'est pas précisé dans OMIM.
-Il est responsable aussi de dysplasie mésomélique de Langer, le mode de transmission est autosomique récessif.
+Le gène SHOX (short stature homeobox) est responsable d'un phénotype de petite taille (short stature) idiopathique familial. Le mode de transmission de cette maladie n'est pas précisé dans OMIM. (1 copie mutée)
+Il est responsable aussi de dysplasie mésomélique de Langer (2 copies mutées), le mode de transmission est autosomique récessif.
 Il est responsable également de dyschondrostéose de Leri-Weill, le mode de transmission est autosomique dominant.
 ### Q3
 Le gène SHOX se trouve sur le chromosome X et Y (régions PAR).
@@ -34,11 +34,13 @@ Dans le syndrome de petite taille liée au gène SHOX, un gène est déficient, 
 ### Q4
 Notation HGVS au niveau génomique: NC_000023.10:g.595474G>C
 ### Q5
-
+NC signifie position génomique
 ### Q6
 Notation HGVS au niveau protéique: NM_000451.3(SHOX_i001):p.(Glu133Asp)
 ### Q7
-
+NM signifie la position au niveau du transcrit. Au niveau de la protéine en position 133, une glutamine est transformée en aspartate.
 ### Q8
+C'est une variation faux-sens car un acide aminé est remplacé par un autre (glutamine en aspartate).
 ### Q9
+https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A634734%2D634744&hgsid=669216901_yLlHUHt8h5UlLVcS68brOSG5xY5K
 ### Q10
