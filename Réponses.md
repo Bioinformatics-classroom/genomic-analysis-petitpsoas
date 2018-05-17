@@ -41,9 +41,9 @@ G référence et C muté
 ### Q6
 Notation HGVS au niveau protéique: NM_000451.3(SHOX_i001):p.(Glu133Asp)
 ### Q7
-NM signifie la position au niveau du transcrit et son numéro. La 3ème version du transcrit. SHOX-i001 pour le nom du gène et son isoforme. Au niveau de la protéine en position 133, une glutamine est transformée en aspartate.
+NM signifie la position au niveau du transcrit et son numéro. La 3ème version du transcrit. SHOX-i001 pour le nom du gène et son isoforme. Au niveau de la protéine en position 133, une glutamate est transformée en aspartate.
 ### Q8
-C'est une variation faux-sens car un acide aminé est remplacé par un autre (glutamine en aspartate).
+C'est une variation faux-sens car un acide aminé est remplacé par un autre (glutamate en aspartate).
 ### Q9
 http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669217753_rRcQ8XXgLtAyEjDM3wntE2SRpsak
 ### Q10
@@ -55,5 +55,7 @@ Le variant se trouve dans l'exon 3
 ### Q13
 Oui cette région est conservée.
 ### Q14
-L'acide aminé 133, concerné par le varaint, se situe dans le domaine Homeobox.
+L'acide aminé 133, concerné par le variant, se situe dans le domaine Homeobox.
 ### Q15
+Barbaréa Wolters 2013: https://www.ncbi.nlm.nih.gov/pubmed/24051572
+### Q16
