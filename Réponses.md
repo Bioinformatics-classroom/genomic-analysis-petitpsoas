@@ -28,9 +28,9 @@ Le gène SHOX (short stature homeobox) est responsable d'un phénotype de petite
 Il est responsable aussi de dysplasie mésomélique de Langer (2 copies mutées), le mode de transmission est autosomique récessif.
 Il est responsable également de dyschondrostéose de Leri-Weill, le mode de transmission est autosomique dominant.
 ### Q3
-Le gène SHOX se trouve sur le chromosome X et Y (régions PAR).
+Le gène *SHOX* se trouve sur le chromosome X et Y (régions PAR).
 Les petites filles atteintes d'un syndrome de Turner ont aussi une petite taille, parce qu'elle n'ont qu'un seul chromosome X, donc un seul exemplaire du gène SHOX. Elles devraient normalement en avoir 2. 
-Dans le syndrome de petite taille liée au gène SHOX, un gène est déficient, ce qui est responsable du phénotype.
+Dans le syndrome de petite taille liée au gène *SHOX*, un gène est déficient, ce qui est responsable du phénotype.
 ### Q4
 Notation HGVS au niveau génomique: NC_000023.10:g.595474G>C
 ### Q5
@@ -55,3 +55,5 @@ Le variant se trouve dans l'exon 3
 ### Q13
 Oui cette région est conservée.
 ### Q14
+L'acide aminé 133, concerné par le varaint, se situe dans le domaine Homeobox.
+### Q15
