@@ -61,8 +61,16 @@ Barbara Wolters 2013: https://www.ncbi.nlm.nih.gov/pubmed/24051572
 ### Q16
 Il y a 7 lignes car il peut y avoir des transcrits différents, on a pas précisé lequel on cherchait en particulier.
 ### Q17
-DOI de l'article de l'ACMG: 10.1097/GIM.0b013e31816b5cae
+DOI de l'article de l'ACMG: 10.1038/gim.2015.30
 ### Q18
-
-
+VCF exome: http://wannovar.wglab.org/cgi-bin/web_result_filter_hui.pl?buildver=hg19&page=1&submission=159934&file=DmwYbpxaus5i_oCi/query.output.exome_summary.txt&title=exome_filtering_results
+VCF genome: http://wannovar.wglab.org/cgi-bin/web_result_filter_hui.pl?buildver=hg19&page=1&submission=159934&file=DmwYbpxaus5i_oCi/query.output.genome_summary.txt&title=genome_filtering_results
 ### Q19
+http://wannovar.wglab.org/done/159934/DmwYbpxaus5i_oCi/index.html
+### Q20
+DOI de l'article de l'ACMG: 10.1038/gim.2015.30
+### Q21
+1: variant déja décrit dans la littérature
+2: gène associé responsable de maladie
+3: études fonctionnelles
+4: ségrégation dans la famille
