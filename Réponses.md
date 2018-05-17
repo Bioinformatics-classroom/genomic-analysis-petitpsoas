@@ -15,14 +15,17 @@ La fréquence du variant 1 est de 0.3750
 La fréquence du variant 2 est de 0.02478
 La fréquence du variant 3 est de 0.000008164
 ### Q5
-Le variant 1 se situe dans une région transcrite. Ce pendant, c'est un variant synonyme sans effet sur la protéine.
+Le variant 1: pour 27 transcrits c'est synonyme et pour un transcrit c'est non codant. Donc sans effet sur la protéine.
 Le variant 2 se situe dans un intron, il n'est donc pas transcrit et n'a pas de conséquence sur la protéine.
-Le variant 3 provoque l'apparition d'un codon stop
+Le variant 3 provoque l'apparition d'un codon stop. Dans RefSeq (mutalyser) on n'est pas dans un transcrit. Mais dans Ensembl (GnomAd) on est dans un transcrit.
 ### Q6
 Le variant 3 n'a pas été retrouvé dans la première base de données utilisée (mutalyser). Il a en effet une fréquence très faible, d'après GnomAd. C'est peut être le variant responsable de la maladie, car il provoque l'apparition d'un codon stop, avec une conséquence sur la traduction d'une protéine.
 ## Exercice 2
 ### Q1
-
+On trouve dans Mutalyser que la variation appartient au gène SHOX.
 ### Q2
+Le gène SHOX (short stature homeobox) est responsable d'un phénotype de petite taille (short stature) idiopathique familial. Le mode de transmission de cette maladie n'est pas précisé dans OMIM.
+Il est responsable aussi de dysplasie mésomélique de Langer, le mode de transmission est autosomique récessif.
+Il est responsable également de dyschondrostéose de Leri-Weill, le mode de transmission est autosomique dominant.
 ### Q3
 ### Q4
