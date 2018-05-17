@@ -35,10 +35,13 @@ Dans le syndrome de petite taille liée au gène SHOX, un gène est déficient, 
 Notation HGVS au niveau génomique: NC_000023.10:g.595474G>C
 ### Q5
 NC signifie position génomique
+Chromosome 23, version 10
+g: position génomique
+G référence et C muté
 ### Q6
 Notation HGVS au niveau protéique: NM_000451.3(SHOX_i001):p.(Glu133Asp)
 ### Q7
-NM signifie la position au niveau du transcrit. Au niveau de la protéine en position 133, une glutamine est transformée en aspartate.
+NM signifie la position au niveau du transcrit et son numéro. La 3ème version du transcrit. SHOX-i001 pour le nom du gène et son isoforme. Au niveau de la protéine en position 133, une glutamine est transformée en aspartate.
 ### Q8
 C'est une variation faux-sens car un acide aminé est remplacé par un autre (glutamine en aspartate).
 ### Q9
@@ -48,3 +51,7 @@ Le gène est sur le brin sens
 ### Q11
 Il y a 6 exons transcrits et 5 exons codants.
 ### Q12
+Le variant se trouve dans l'exon 3
+### Q13
+Oui cette région est conservée.
+### Q14
