@@ -42,5 +42,9 @@ NM signifie la position au niveau du transcrit. Au niveau de la protéine en pos
 ### Q8
 C'est une variation faux-sens car un acide aminé est remplacé par un autre (glutamine en aspartate).
 ### Q9
-https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A634734%2D634744&hgsid=669216901_yLlHUHt8h5UlLVcS68brOSG5xY5K
+http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669217753_rRcQ8XXgLtAyEjDM3wntE2SRpsak
 ### Q10
+Le gène est sur le brin sens
+### Q11
+Il y a 6 exons transcrits et 5 exons codants.
+### Q12
