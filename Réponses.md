@@ -32,4 +32,13 @@ Le gène SHOX se trouve sur le chromosome X et Y (régions PAR).
 Les petites filles atteintes d'un syndrome de Turner ont aussi une petite taille, parce qu'elle n'ont qu'un seul chromosome X, donc un seul exemplaire du gène SHOX. Elles devraient normalement en avoir 2. 
 Dans le syndrome de petite taille liée au gène SHOX, un gène est déficient, ce qui est responsable du phénotype.
 ### Q4
+Notation HGVS au niveau génomique: NC_000023.10:g.595474G>C
+### Q5
 
+### Q6
+Notation HGVS au niveau protéique: NM_000451.3(SHOX_i001):p.(Glu133Asp)
+### Q7
+
+### Q8
+### Q9
+### Q10
